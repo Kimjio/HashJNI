@@ -1,0 +1,2 @@
+rootProject.name='HashJNI'
+include ':app'
